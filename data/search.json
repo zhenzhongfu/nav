@@ -1,8 +1,8 @@
 [
   {
-    "name": "site", 
+    "name": "site",
     "icon": "https://raw.sevencdn.com/xjh22222228/nav/image/logo.png",
-    "placeholder": "search", 
+    "placeholder": "search",
     "blocked": false,
     "isInner": true
   },
