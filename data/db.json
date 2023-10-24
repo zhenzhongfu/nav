@@ -222,7 +222,7 @@
               {
                 "icon": "http://sc.ftqq.com/static/image/favlogo.png",
                 "name": "Server sauce",
-                "desc": ""Server Chan", the English name is "ServerChan", is a communication software between "programmers" and "servers". ",
+                "desc": "'Server Chan', the English name is 'ServerChan', is a communication software between 'programmers' and 'servers'. ",
                 "url": "http://sc.ftqq.com",
                 "createdAt": "2021-01-23T01:32:06.423Z",
                 "urls": {},
@@ -6421,7 +6421,7 @@
               {
                 "icon": "https://www.electron.build/assets/images/favicon.png",
                 "name": "electron-builder",
-                "desc": "A complete, out-of-the-box solution for packaging and building Electron, Proton Native or Muon into an "auto-update" distributable installer that supports macOS, Windows and Linux.",
+                "desc": "A complete, out-of-the-box solution for packaging and building Electron, Proton Native or Muon into an 'auto-update' distributable installer that supports macOS, Windows and Linux.",
                 "url": "https://www.electron.build/",
                 "urls": {
                   "Github": "https://github.com/electron-userland/electron-builder"
@@ -7211,7 +7211,7 @@
             "nav": [
               {
                 "name": "json-iterator",
-                "desc": "High performance 100% compatible "encoding/json" alternative",
+                "desc": "High performance 100% compatible 'encoding/json' alternative",
                 "url": "http://jsoniter.com/migrate-from-go-std.html",
                 "urls": {
                   "Github": "https://github.com/json-iterator/go"
@@ -7654,7 +7654,7 @@
               {
                 "icon": "https://avatars1.githubusercontent.com/u/4314092?s=200&v=4",
                 "name": "Go Getting Started",
-                "desc": "Chinese translation of "The Way to Go", the official Chinese name is "Go Beginner's Guide","url": "https: //github.com/unknwon/the-way-to-go_ZH_CN/blob/master/eBook/directory.md",
+                "desc": "Chinese translation of \"The Way to Go\", the official Chinese name is \"Go Beginner's Guide\",\"url\": \"https: //github.com/unknwon/the-way-to-go_ZH_CN/blob/master/eBook/directory.md\"",
                 "createdAt": "2021-01-23T01:32:06.423Z",
                 "urls": {},
                 "rate": 5,
@@ -7663,7 +7663,7 @@
               {
                 "icon": "https://avatars1.githubusercontent.com/u/4314092?s=200&v=4",
                 "name": "Go Language Bible",
-                "desc": "Go Language Bible "The Go Programming Language" Chinese version",
+                "desc": "Go Language Bible \"The Go Programming Language\" Chinese version",
                 "url": "https://yar999.gitbook.io/gopl-zh/",
                 "createdAt": "2021-01-23T01:32:06.423Z",
                 "urls": {},
@@ -7683,7 +7683,7 @@
               {
                 "icon": "https://avatars1.githubusercontent.com/u/4314092?s=200&v=4",
                 "name": "Go Simple Tutorial",
-                "desc": "The Chinese translation of "The Little Go Book", the official Chinese name is "Go Simple Tutorial","url": "https: //github.com/songleo/the-little-go-book_ZH_CN",
+                "desc": "The Chinese translation of \"The Little Go Book\", the official Chinese name is \"Go Simple Tutorial\",\"url\": \"https: //github.com/songleo/the-little-go-book_ZH_CN",
                 "createdAt": "2021-01-23T01:32:06.423Z",
                 "urls": {},
                 "rate": 5,
@@ -7732,7 +7732,7 @@
               {
                 "icon": "https://avatars1.githubusercontent.com/u/4314092?s=200&v=4",
                 "name": "Mastering GO",
-                "desc": "Chinese translation of "Mastering GO", "Play GO".",
+                "desc": "Chinese translation of \"Mastering GO\", \"Play GO\".",
                 "url": "https://github.com/hantmac/Mastering_Go_ZH_CN",
                 "createdAt": "2021-01-23T01:32:06.423Z",
                 "urls": {},
@@ -8616,7 +8616,7 @@
               {
                 "icon": "https://p1.ssl.qhimg.com/t010e845cdf71587354.png",
                 "name": "Zhongcheng Translation",
-                "desc": "China's best technical translation community, the translation platform for translators who understand the most, produced by "Qiwu Tuan", the largest front-end team of Qihoo 360",
+                "desc": "China's best technical translation community, the translation platform for translators who understand the most, produced by \"Qiwu Tuan\", the largest front-end team of Qihoo 360",
                 "url": "https://zcfy.cc/",
                 "createdAt": "2021-01-23T01:32:06.423Z",
                 "urls": {},
@@ -9449,7 +9449,7 @@
               {
                 "icon": "https://www.jikexueyuan.com/favicon.ico",
                 "name": "Geek Academy",
-                "desc": "Committed to "making IT learning more effective", featuring practical combat, and providing high-quality vocational education for IT practitioners who focus on self-improvement",
+                "desc": "Committed to \"making IT learning more effective\", featuring practical combat, and providing high-quality vocational education for IT practitioners who focus on self-improvement",
                 "url": "https://www.jikexueyuan.com/",
                 "createdAt": "2021-01-23T01:32:06.424Z",
                 "urls": {},
