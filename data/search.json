@@ -1,18 +1,10 @@
 [
   {
-    "name": "站内",
+    "name": "site", 
     "icon": "https://raw.sevencdn.com/xjh22222228/nav/image/logo.png",
-    "placeholder": "站内搜索",
+    "placeholder": "search", 
     "blocked": false,
     "isInner": true
-  },
-  {
-    "name": "baidu",
-    "url": "https://www.baidu.com/s?wd=",
-    "icon": "https://raw.sevencdn.com/xjh22222228/nav/image/baidu.svg",
-    "placeholder": "百度一下",
-    "blocked": false,
-    "isInner": false
   },
   {
     "name": "Google",
@@ -36,19 +28,4 @@
     "blocked": false,
     "isInner": false
   },
-  {
-    "name": "zhihu",
-    "url": "https://www.zhihu.com/search?type=content&q=",
-    "icon": "https://raw.sevencdn.com/xjh22222228/nav/image/zhihu.svg",
-    "blocked": false,
-    "isInner": false
-  },
-  {
-    "name": "douban",
-    "url": "https://search.douban.com/book/subject_search?search_text=",
-    "icon": "https://raw.sevencdn.com/xjh22222228/nav/image/douban.svg",
-    "placeholder": "book、author、ISBN",
-    "blocked": false,
-    "isInner": false
-  }
 ]
